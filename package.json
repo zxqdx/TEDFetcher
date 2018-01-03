@@ -1,0 +1,27 @@
+{
+  "name": "ted-fetcher",
+  "version": "0.0.1",
+  "description": "Download TED Talk Meta Information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxqdx/TEDFetcher.git"
+  },
+  "keywords": [
+    "TED",
+    "Talk",
+    "Fetcher"
+  ],
+  "author": "zxqdx, yer",
+  "license": "SEE LICENSE IN README.md",
+  "bugs": {
+    "url": "https://github.com/zxqdx/TEDFetcher/issues"
+  },
+  "homepage": "https://github.com/zxqdx/TEDFetcher#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
