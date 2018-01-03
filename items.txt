@@ -1,0 +1,14 @@
+https://www.ted.com/talks/quick-list
+https://ted2srt.org/api/talks/{talkName}
+
+
+
+Features
+- Download all video meta data
+ - Title
+ - Video Link (Highest Quality)
+ - Description
+- Download all video files
+- Download all subtitles
+ - English
+ - Chinese
